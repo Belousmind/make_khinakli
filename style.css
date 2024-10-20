@@ -22,7 +22,7 @@ body, html {
     font-weight: 900;
     font-style: normal;
     position: absolute;
-    font-size: 7em;
+    font-size: 7rem;
     font-weight: bold;
     background: linear-gradient(45deg, #ff0066, #ffcc00, #00ccff, #ff0066);
     background-size: 400% 400%;
